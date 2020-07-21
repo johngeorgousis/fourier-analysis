@@ -1,4 +1,4 @@
 ## Fourier Analysis
-#### Fourier Analysis and Power Spectra Comparison
+#### Overview
 
 ![Exercise](exercise3.png)
